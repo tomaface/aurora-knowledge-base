@@ -5,7 +5,7 @@
 - **Qualité de la source :** Expert (Pharmacologie/Développement)
 - **Nom de l'étude :** PROMISE 2
 - **Titre complet de l'étude :** Essai de phase III, en double aveugle, contre placebo, randomisé, évaluant 2 administrations d'eptinezumab IV chez des patients souffrant de migraine chronique.
-- **Fichier source :** "Speaker - Etude Promise 2.txt"
+- **Fichier source :** "speaker_promise2_transcription.md"
 
 ### **Introduction et Contexte de l'Étude**
 
