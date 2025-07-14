@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique avec algie vasculaire de la face
 - **Localisation :** La Roche-sur-Yon
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui)
-- **Fichier source :** "Messaline - Patiente (La Roche-sur-Yon).txt"
+- **Fichier source :** "messaline_transcription.md"
 
 ### Résumé des Points Clés
 
