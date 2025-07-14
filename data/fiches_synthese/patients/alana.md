@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique
 - **Localisation :** Montpellier
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui)
-- **Fichier source :** "Alana - Patiente (Montpellier).txt"
+- **Fichier source :** "alana_transcription.md"
 
 ### Résumé des Points Clés
 
