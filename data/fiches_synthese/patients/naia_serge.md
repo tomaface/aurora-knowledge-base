@@ -6,7 +6,7 @@
 - **Qualité des sources :** Patients migraineux chronique (Héréditaire)
 - **Localisation :** Lorient / Guingamp
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui, pour les deux)
-- **Fichier source :** "Naïa + Serge - Patients (Lorient).txt"
+- **Fichier source :** "naia_serge_transcription.md"
 
 ### Résumé des Points Clés
 
