@@ -6,7 +6,7 @@
 - **Localisation :** Hôpital Neurologique de Lyon
 - **Titre de la présentation :** CGRP et traitements ciblant la voie du CGRP
 - **Numérotation :** 02 de 02
-- **Fichier source :** "Dr. Demarquay - CGRP et traitements ciblant la voie du CGRP - 02 de 02.txt"
+- **Fichier source :** "demarquay_transcription_02.md"
 
 ### **Introduction et Contexte de la Présentation**
 
