@@ -5,7 +5,7 @@
 - **Qualité de la source :** Docteur, Pharmacologue
 - **Titre de la présentation :** Pharmacologie et relation dose/concentration/effets des anticorps thérapeutiques
 - **Numérotation :** 01 de 01
-- **Fichier source :** "Dr. Ternant - Pharmacologie et relation dose _concentration_ effets des anticorps thérapeutique.txt"
+- **Fichier source :** "ternant_transcription.md"
 
 ### **Introduction et Contexte de la Présentation**
 
