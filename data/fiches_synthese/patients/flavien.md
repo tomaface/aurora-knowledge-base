@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patient migraineux chronique
 - **Localisation :** Guingamp
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui)
-- **Fichier source :** "Flavien - Patient (Guingamp).txt"
+- **Fichier source :** "flavien_transcription.md"
 
 ### Résumé des Points Clés
 
