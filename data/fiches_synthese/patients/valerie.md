@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique
 - **Localisation :** Metz
 - **Traitement Actuel :** Non (Rendez-vous programmé pour une 1ère injection d'anticorps monoclonaux)
-- **Fichier source :** "Valerie - Patiente (Metz).txt"
+- **Fichier source :** "valerie_transcription.md"
 
 ### Résumé des Points Clés
 
