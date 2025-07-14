@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique et réfractaire
 - **Localisation :** Montpellier
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui)
-- **Fichier source :** "Anaïs - Patiente (Montpellier).txt"
+- **Fichier source :** "anais_transcription.md"
 
 ### Résumé des Points Clés
 
