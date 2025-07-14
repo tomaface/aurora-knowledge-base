@@ -5,7 +5,7 @@
 - **Qualité de la source :** Docteur Neurologue
 - **Titre de la présentation :** Anatomie et physiopathologie de la migraine
 - **Numérotation :** 03 de 04
-- **Fichier source :** "Dr. Monconduit - Anatomie et physiopathologie de la migraine - 03 de 04.txt"
+- **Fichier source :** "monconduit_transcription_03.md"
 
 ### **Introduction et Contexte de la Présentation**
 
