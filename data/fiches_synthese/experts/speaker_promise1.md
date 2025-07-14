@@ -5,7 +5,7 @@
 - **Qualité de la source :** Expert (Pharmacologie/Développement)
 - **Nom de l'étude :** PROMISE 1
 - **Titre complet de l'étude :** Essai de phase III, en double aveugle, contre placebo, randomisé, évaluant l'efficacité et la sécurité d'administrations répétées d'eptinezumab IV dans la migraine épisodique.
-- **Fichier source :** " Speaker - Etude Promise 1.txt "
+- **Fichier source :** "speaker_promise1_transcription.md"
 
 ### Introduction et Contexte du Développement Clinique
 
