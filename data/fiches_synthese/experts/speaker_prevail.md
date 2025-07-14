@@ -5,7 +5,7 @@
 - **Qualité de la source :** Expert (Pharmacologie/Développement)
 - **Nom de l'étude :** PREVAIL
 - **Titre complet de l'étude :** Essai de phase III en ouvert évaluant la sécurité et la tolérance d'Eptinezumab à long terme chez des patients atteints de migraine chronique. (Publiée dans BMC Neurology, premier auteur : Pr. David Dodick).
-- **Fichier source :** "Speaker - Etude Prevail.txt"
+- **Fichier source :** "speaker_prevail_transcription.md"
 
 ### Introduction et Objectifs de l'Étude
 
