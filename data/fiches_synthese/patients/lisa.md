@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique
 - **Localisation :** La Roche-sur-Yon
 - **Traitement Actuel :** Sous anticorps monoclonaux et Botox
-- **Fichier source :** "Lisa - Patiente (La Roche-sur-Yon).txt"
+- **Fichier source :** "lisa_transcription.md"
 
 ### Résumé des Points Clés
 
