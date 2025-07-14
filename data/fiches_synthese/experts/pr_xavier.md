@@ -4,7 +4,7 @@
 - **Source :** Pr. Xavier
 - **Qualité de la source :** Professeur, Chef du service de neurologie (anciennement spécialisé dans les AVC)
 - **Localisation :** CHR Metz-Thionville
-- **Fichier source :** "Xavier - Professeur Neurologue (Metz).txt"
+- **Fichier source :** "xavier_transcription.md"
 
 ### Résumé des Points Clés
 
