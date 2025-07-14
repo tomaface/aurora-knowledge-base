@@ -4,7 +4,7 @@
 - **Source :** Dr. Loredana
 - **Qualité de la source :** Docteur Neurologue
 - **Localisation :** Centre Hospitalier de Château-Thierry (Hôpital non spécialisé en neurologie)
-- **Fichier source :** "Loredana - Docteur Neurologie (Chateau Thierry).txt"
+- **Fichier source :** "loredana_transcription.md"
 
 ### Résumé des Points Clés
 
