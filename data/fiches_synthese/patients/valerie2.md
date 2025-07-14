@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique
 - **Localisation :** Aix-en-Provence
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui)
-- **Fichier source :** "Valerie2 - Patiente (Aix-en-Provence).txt"
+- **Fichier source :** "valerie2_transcription.md"
 
 ### Résumé des Points Clés
 
