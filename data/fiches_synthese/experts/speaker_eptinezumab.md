@@ -5,7 +5,7 @@
 - **Qualité de la source :** Expert (Pharmacologie/Développement)
 - **Titre de la présentation :** Eptinezumab - Structure, mode d'action et phamacocinétique
 - **Numérotation :** 01 de 01
-- **Fichier source :** "Speaker - Eptinezumab - Structure, mode d'action et phamacocinétique.txt"
+- **Fichier source :** "speaker_eptinezumab_transcription.md"
 
 ### **Introduction et Contexte de la Présentation**
 
