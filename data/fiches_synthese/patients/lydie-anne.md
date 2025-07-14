@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique
 - **Localisation :** Guingamp
 - **Traitement Actuel :** Sous anticorps monoclonaux (Oui)
-- **Fichier source :** "Lydie-Anne - Patiente (Guingamp).txt"
+- **Fichier source :** "lydie-anne_transcription.md"
 
 ### Résumé des Points Clés
 
