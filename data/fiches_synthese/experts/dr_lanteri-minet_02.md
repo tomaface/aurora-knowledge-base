@@ -4,7 +4,7 @@
 - **Source :** Dr. Lanteri-Minet
 - **Qualité de la source :** Docteur Neurologue
 - **Titre de la présentation :** Migraine traitement prophylactique
-- **Numérotation :** 01 de 02
+- **Numérotation :** 02 de 02
 - **Fichier source :** "lanteri-minet_transcription_02.md"
 
 ### **Introduction et Contexte de la Présentation**
