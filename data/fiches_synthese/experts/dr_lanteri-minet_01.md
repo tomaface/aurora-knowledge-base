@@ -5,7 +5,7 @@
 * **Qualité de la source :** Docteur Neurologue  
 * **Titre de la présentation :** Migraine traitement de crise  
 * **Numérotation :** 01 de 02  
-* **Fichier source :** "Dr. Lanteri-Minet \- Migraine traitement de crise.txt"
+* **Fichier source :** "lanteri-minet_transcription_01.md"
 
 ### **Introduction et Contexte de la Présentation**
 
