@@ -5,7 +5,7 @@
 - **Qualité de la source :** Docteur Neurologue
 - **Titre de la présentation :** Tout savoir sur la migraine
 - **Numérotation :** 01 de 05
-- **Fichier source :** "Dr. Lucas - Tout savoir sur la migraine - 01 de 05.txt"
+- **Fichier source :** "lucas_transcription_01.md"
 
 ### **Introduction et Contexte de la Présentation**
 
