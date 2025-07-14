@@ -4,7 +4,7 @@
 - **Source :** Dr. Nicolas
 - **Qualité de la source :** Docteur Neurologue, spécialisé dans la prise en charge des céphalées (15 ans d'expérience)
 - **Localisation :** Montpellier (Clinique Mutualiste)
-- **Fichier source :** "Nicolas - Docteur Neurologuie (Montpellier).txt"
+- **Fichier source :** "nicolas_transcription.md"
 
 ### Résumé des Points Clés
 
