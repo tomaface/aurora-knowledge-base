@@ -5,7 +5,7 @@
 - **Qualité de la source :** Patiente migraineuse chronique
 - **Localisation :** Metz
 - **Traitement Actuel :** Vient de recevoir sa 1ère injection d'anticorps monoclonaux (interview réalisée ~2 mois après)
-- **Fichier source :** "Louise - Patiente (Metz).txt"
+- **Fichier source :** "louise_transcription.md"
 
 ### Résumé des Points Clés
 
