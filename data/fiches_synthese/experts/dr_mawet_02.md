@@ -6,7 +6,7 @@
 - **Localisation :** Urgences Céphalées, Hôpital Lariboisière, Paris
 - **Titre de la présentation :** Anti-CGRP en pratique
 - **Numérotation :** 02 de 02
-- **Fichier source :** "Dr. Mawet - Anti-CGRP en pratique - 02 de 02.txt"
+- **Fichier source :** "mawet_transcription_02.md"
 
 ### **Introduction et Contexte de la Présentation**
 
