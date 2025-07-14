@@ -4,7 +4,7 @@
 - **Source :** Magalie
 - **Qualité de la source :** Cadre de santé à l’HAD Vendée, Responsable Innovation et Partenariat (anciennement infirmière et cadre à l'hôpital)
 - **Localisation :** La Roche-sur-Yon
-- **Fichier source :** "Magalie - Cadre de santé à l’HAD (La Roche-sur-Yon).txt"
+- **Fichier source :** "magalie_transcription.md"
 
 ### **Résumé des Points Clés**
 
